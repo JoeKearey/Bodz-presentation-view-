@@ -21,6 +21,9 @@ In the Bodz Holiday Planning module, we will add direct Omio travel links. Users
 -Find transport solutions for their planned holiday destinations
 -Share travel plans with their group
 
+INTEGRATION of BOOKING.COM
+- in the bodz holiday planning module, we will add direct links to booking.com platform, where users can select accommodation options to share with their group / vote on
+
 TIMELINE FOR RELEASE:
 We intend on releasing the IOS and android versions of the apps to the respective app stores in mid march 2025
 
