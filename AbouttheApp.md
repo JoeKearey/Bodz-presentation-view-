@@ -13,11 +13,14 @@ Key goals include providing full functionality for event / holiday creation, gue
 
 The app will be usable across, iOS, and Android platforms.
 
+
 INTEGRATION OF OMIO:
 In the Bodz Holiday planning module, we intend on adding links that users can press, which take them straight to Omio, to identify potential travel options that they / their wider group can take to the intended holiday destination, 
+
 
 TIMELINE FOR RELEASE:
 We intend on releasing the IOS and android versions of the apps to the respective app stores in mid march 2025
 
+
 CONTACT ME:
-for queries please reach me at joe.kearey@gmail,com
+for queries please reach me at joe.kearey@gmail.com
