@@ -1,11 +1,5 @@
 # Bodz-presentation-view-
-This is a presentation-only view of the Bodz app, with the main app repository currently stored in a private repository.
-
-The Bodz app enhances group event and holiday planning by making it easier for everyone in a group to:
-
--Understand what’s coming up
--Contribute easily to plans
--Create their own fun avatars, called "Bodz", which group members can see
+This is a presentation-only view of the Bodz app, with the main app repository currently stored in a private repository. The Bodz app enhances group event and holiday planning by making it easier for everyone in a group to: Understand what’s coming up , Contribute easily to plans , Create their own fun avatars, called "Bodz", which all group members can see
 --------------------------------------------------------------------------------
 
 
