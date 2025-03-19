@@ -13,8 +13,8 @@ With Bodz, groups can:
 -Easily book transport and stays through Booking.com and Omio integrations.
 -Simplify guest and vendor coordination, making event and holiday planning hassle-free.
 
-INTEGRATION OF OMIO:
-In the Bodz Holiday Planning module, we will add direct Omio travel links. Users can:
+INTEGRATION OF Skyscanner:
+In the Bodz Holiday Planning module, we will add direct Skyscanner travel links. Users can:
 
 -Click the Omio button to search for travel options
 -Find transport solutions for their planned holiday destinations
