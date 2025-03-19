@@ -10,13 +10,13 @@ With Bodz, groups can:
 -Vote on travel options, accommodations, and venues to ensure a fair, democratic decision-making process.
 -Update trip details in real time, allowing dynamic contributions from all members.
 -Create personalized avatars ("Bodz") to bring a fun, social element to group planning.
--Easily book transport and stays through Booking.com and Omio integrations.
+-Easily book transport and stays through Booking.com and skyscanner integrations.
 -Simplify guest and vendor coordination, making event and holiday planning hassle-free.
 
 INTEGRATION OF Skyscanner:
 In the Bodz Holiday Planning module, we will add direct Skyscanner travel links. Users can:
 
--Click the Omio button to search for travel options
+-Click the skyscanner button to search for travel options
 -Find transport solutions for their planned holiday destinations
 -Share travel plans with their group
 
